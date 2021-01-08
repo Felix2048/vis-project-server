@@ -17,7 +17,7 @@ Not quality assurance
 * [@SunYJ-joy](https://github.com/SunYJ-joy)
 * [@yunhuang1241](https://github.com/yunhuang1241)
 * [@dreamersboy](https://github.com/dreamersboy)
-* [@wquanxiu@163.com](https://github.com/wquanxiu@163.com)
+* [@ALittleLeo](https://github.com/ALittleLeo)
 * [@Felix2048](https://github.com/Felix2048)
 * [@vickiii7](https://github.com/vickiii7)
 * [@poem1209](https://github.com/poem1209)
